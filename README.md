@@ -100,6 +100,7 @@ end
 ( )`@variable_name` ( )`@@variable_name` ( )`$variable_name` (X) `VARIABLE_NAME`
 
 ?: 
+
 ```ruby
 class Book
   attr_accessor :author, :page_count, :genre
