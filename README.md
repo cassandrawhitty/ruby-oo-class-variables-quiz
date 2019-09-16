@@ -119,7 +119,7 @@ class Book
 end
 ```
 
-If a method requires some customization, what needs to change in the above code?
+If we wanted to modify the above code so that the `genre` of every Book instance is stored in the `GENRES` class constant, what needs to change in the above code?
 
 ( ) Create the writer for genre and add the logic for the class constant ( ) Add an `attr_reader` for genre ( ) Remove the `attr_accessor` for genre (X) All of the Above
 
